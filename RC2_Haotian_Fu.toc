@@ -1,8 +1,0 @@
-\beamer@sectionintoc {2}{States of Matter}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Gas, Liquid, and Solid}{4}{0}{1}
-\beamer@sectionintoc {3}{Practical Functions}{24}{0}{2}
-\beamer@subsectionintoc {3}{1}{Blocks}{25}{0}{2}
-\beamer@subsectionintoc {3}{2}{Figures and Tables}{27}{0}{2}
-\beamer@subsectionintoc {3}{3}{Graphs}{28}{0}{2}
-\beamer@sectionintoc {4}{Conclusions}{29}{0}{3}
-\beamer@subsectionintoc {4}{1}{As for States of Matter}{30}{0}{3}
