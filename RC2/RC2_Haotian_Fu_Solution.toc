@@ -1,9 +1,0 @@
-\beamer@sectionintoc {2}{States of Matter}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{Gas, Liquid, and Solid}{4}{0}{1}
-\beamer@subsectionintoc {2}{2}{Intermolecular Forces}{31}{0}{1}
-\beamer@sectionintoc {3}{Thermodynamics}{41}{0}{2}
-\beamer@subsectionintoc {3}{1}{Introduction}{42}{0}{2}
-\beamer@subsectionintoc {3}{2}{Examples}{68}{0}{2}
-\beamer@sectionintoc {4}{Conclusions}{74}{0}{3}
-\beamer@subsectionintoc {4}{1}{As for States of Matter}{75}{0}{3}
-\beamer@subsectionintoc {4}{2}{As for Thermodynamics}{78}{0}{3}
