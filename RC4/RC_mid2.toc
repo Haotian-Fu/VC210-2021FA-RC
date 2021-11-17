@@ -1,0 +1,10 @@
+\beamer@sectionintoc {2}{Concept Review}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Thermodynamic Laws}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Practical Formula}{12}{0}{1}
+\beamer@sectionintoc {3}{Classic Models}{15}{0}{2}
+\beamer@subsectionintoc {3}{1}{Free expansion}{16}{0}{2}
+\beamer@subsectionintoc {3}{2}{Calimeter}{21}{0}{2}
+\beamer@subsectionintoc {3}{3}{Heating curve}{26}{0}{2}
+\beamer@subsectionintoc {3}{4}{Trouton’s rule}{30}{0}{2}
+\beamer@subsectionintoc {3}{5}{State function}{31}{0}{2}
+\beamer@subsectionintoc {3}{6}{Examples}{40}{0}{2}
